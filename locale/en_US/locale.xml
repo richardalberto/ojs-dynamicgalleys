@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE locale SYSTEM "../../../../../lib/pkp/dtd/locale.dtd">
+
+<!--
+  * locale.xml
+  *
+  * Localization strings for the es_ES (Español (España)) locale.
+  *
+  -->
+ 
+<locale name="es_ES" full_name="Español (España)">
+	<message key="plugins.generic.dynamicGalleys.displayName">Galeradas dinámicas</message>
+	<message key="plugins.generic.dynamicGalleys.description">Este plugin crea galeradas HTML y PDF dinámicas utilizando los metadatos de la revista.</message>
+
+        <message key="plugins.generic.dynamicGalleys.html">HTML</message>
+        <message key="plugins.generic.dynamicGalleys.pdf">PDF</message>
+        <message key="plugins.generic.dynamicGalleys.zip">ZIP</message>
+        <message key="plugins.generic.dynamicGalleys.all">Todo</message>
+
+        <message key="plugins.generic.dynamicGalleys.selectIssue.name">Seleccionar número.</message>
+	<message key="plugins.generic.dynamicGalleys.selectArticle.name">Seleccionar artículo.</message>
+
+        <message key="plugins.generic.dynamicGalleys.publish">Publicar</message>
+        <message key="plugins.generic.dynamicGalleys.unpublish">Despublicar</message>
+        <message key="plugins.generic.dynamicGalleys.delete">Eliminar</message>
+</locale>

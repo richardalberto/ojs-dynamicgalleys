@@ -1,0 +1,116 @@
+div .enTitle {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+	margin-bottom: 5px;
+}
+div .title {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+	margin-bottom: -2px;
+}
+div .authorsBiography {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+}
+div .authors {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+}
+div .articleData {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+	border-top: 1px solid #9f0d0d;
+} 
+div .body {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	font-size: 10;
+	line-height: 120%;
+}
+div .references {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	font-size: 10;
+	line-height: 105%;
+}
+.references {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	font-size: 10;
+	line-height: 105%;
+}
+div .abstract {
+	margin-bottom: 5px;
+	margin-top: 5px;
+	#border-top: 1px solid #9f0d0d;
+}
+div .abstractEs {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+}
+div .abstractEn {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+	#margin-bottom: 5px;
+}
+div .abstractEsHeader {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+	#border-top: 1px solid #9f0d0d;
+}
+div .abstractEnHeader {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+	#border-top: 1px solid #9f0d0d;
+	#margin-top: 5px;
+}
+div .articleCitation {
+	text-align: justify;
+	color: #303030;
+	font-family: FreeSans;
+	line-height: 105%;
+	padding-bottom: 10px;
+	border-bottom: 1px solid #9f0d0d;
+}
+div .image {
+	display: block;   
+	margin-left: auto;   
+	margin-right: auto;
+	text-align: center;
+}
+p {
+	text-align: justify;
+	list-style-type: circle;
+	color: #303030;
+	font-family: FreeSans;
+	font-size: 10;
+	line-height: 120%;
+}
+ul {
+	list-style-type: circle;
+	color: #303030;
+	font-size: 10;
+	font-family: FreeSans;
+}
+

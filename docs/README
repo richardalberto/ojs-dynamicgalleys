@@ -1,0 +1,28 @@
+================================
+=== OJS Dynamic Galley Plugin
+=== Version: 1.0
+=== Release date: February 12, 2010
+=== Author: Richard González Alberto <damnpoet@gmail.com>
+================================
+
+About
+-----
+This plugin for OJS 2 allows for article galleys to be dynamically generated from data on the OJS database.
+
+License
+-------
+This plugin is licensed under the GNU General Public License v2. See the file COPYING for the complete terms of this license.
+
+System Requirements
+-------------------
+Articles Extras generic Plugin must be installed. Download from http://pkp.sfu.ca/support/forum/viewtopic.php?f=28&t=5689
+
+Installation
+------------
+To install the plugin:
+- as Journal Manager, go into the "System Plugins" page and enable the Dynamic Galleys plugin.
+
+Contact/Support
+---------------
+Please email the author for support, bugfixes, or comments.
+Email: <damnpoet@gmail.com>
